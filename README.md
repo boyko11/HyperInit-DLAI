@@ -1,3 +1,7 @@
+# ANN Weight Initialization Strategies
+# Week 1 Assignment  
+# Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization   
+
 #### Visualize Data
 python vizualize.py  
 
